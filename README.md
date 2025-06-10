@@ -13,7 +13,6 @@ Read the full blog post here:
 
 - Laravel 12 setup
 - Breeze authentication scaffolding
-- Tailwind CSS styling
 - Simple login/register functionality
 - Clean UI with demo images
 - Beginner-friendly walkthrough
